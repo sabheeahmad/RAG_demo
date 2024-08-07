@@ -2,7 +2,7 @@
 
 ## Environment setup:
 
-		#setup you api key from the .env file 
+		#setup your api key from the .env file 
 
 
 ## Run App:
